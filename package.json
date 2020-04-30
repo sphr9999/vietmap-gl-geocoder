@@ -1,6 +1,6 @@
 {
   "name": "vietmap-gl-geocoder",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A geocoder control for Mapbox GL JS",
   "main": "lib/index.js",
   "unpkg": "dist/mapbox-gl-geocoder.min.js",
@@ -61,9 +61,11 @@
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.5.0",
     "lodash.debounce": "^4.0.6",
-    "suggestions": "^1.6.0",
-    "subtag": "^0.5.0",
     "nanoid": "^2.0.1",
+    "subtag": "^0.5.0",
+    "suggestions": "^1.6.0",
+    "vietmap-gl": "^1.0.1-dev",
+    "vietmap-sdk": "^1.0.3",
     "xtend": "^4.0.1"
   },
   "lint-staged": {
