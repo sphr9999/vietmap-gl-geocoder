@@ -8588,10 +8588,10 @@ vfile@^3.0.0:
     unist-util-stringify-position "^1.0.0"
     vfile-message "^1.0.0"
 
-vietmap-gl@^1.0.1-dev:
-  version "1.0.1-dev"
-  resolved "https://registry.yarnpkg.com/vietmap-gl/-/vietmap-gl-1.0.1-dev.tgz#7b7991c7f3dcdaf66994b2480fd7e98462be0c9e"
-  integrity sha512-ffTVNDErBTAuFCATnbR3J6gIbSxshGTADunhYzmxS4GK/yb86yvVsexzKq55KzA/lIffsLFS01WpR+PogKxCAg==
+vietmap-gl@^1.0.3-dev:
+  version "1.0.3-dev"
+  resolved "https://registry.yarnpkg.com/vietmap-gl/-/vietmap-gl-1.0.3-dev.tgz#5ba9a943bae1f523cc5401c008a17b3ad092be03"
+  integrity sha512-5a+9JwCxAZ3Yxk3seVDaD6zakFH1aj98uHz2mMTmnwCeDh5MfBjefmD5UJlU2XTwl6TnbHL3k8zMLPnmYRTQXw==
   dependencies:
     "@mapbox/geojson-rewind" "^0.5.0"
     "@mapbox/geojson-types" "^1.0.2"
@@ -8617,10 +8617,10 @@ vietmap-gl@^1.0.1-dev:
     tinyqueue "^2.0.3"
     vt-pbf "^3.1.1"
 
-vietmap-sdk@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/vietmap-sdk/-/vietmap-sdk-1.0.3.tgz#0f6a710e024afa5952089f5ffc642d507f6c2561"
-  integrity sha512-E38bwKmMArGYGrcRh7Ib0zbOpx97LpWCW7ib7PmZI4x2IybPibkpsHzWRhFw+uyCfE0BDWJRRO/ven0nBivoUg==
+vietmap-sdk@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/vietmap-sdk/-/vietmap-sdk-1.1.0.tgz#ff5634c9661b08a9fbd953f2dccb5ad99ea2bf98"
+  integrity sha512-mfXWYsHAPulEDq0BbzS2YKtx8TOA930u9XgPGbvyll7kqBnjeYaFagPn3ppOBXnzF6RWvXiee6U/WIjm9pgo+A==
   dependencies:
     "@mapbox/fusspot" "^0.4.0"
     "@mapbox/parse-mapbox-token" "^0.2.0"
