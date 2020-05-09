@@ -8617,10 +8617,10 @@ vietmap-gl@^1.0.3-dev:
     tinyqueue "^2.0.3"
     vt-pbf "^3.1.1"
 
-vietmap-sdk@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/vietmap-sdk/-/vietmap-sdk-1.1.0.tgz#ff5634c9661b08a9fbd953f2dccb5ad99ea2bf98"
-  integrity sha512-mfXWYsHAPulEDq0BbzS2YKtx8TOA930u9XgPGbvyll7kqBnjeYaFagPn3ppOBXnzF6RWvXiee6U/WIjm9pgo+A==
+vietmap-sdk@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/vietmap-sdk/-/vietmap-sdk-1.1.1.tgz#15a26a637c25e13a276b35f253821997647b6013"
+  integrity sha512-XN/BYRXf50h28fkPCFatbgHxY0v66piDyj1ieCPgYTYYKqQNMi7tM5jIdK9RXTz7hnmoSlj8/IJnMq64u8NqXA==
   dependencies:
     "@mapbox/fusspot" "^0.4.0"
     "@mapbox/parse-mapbox-token" "^0.2.0"
